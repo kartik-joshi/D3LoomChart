@@ -1,0 +1,552 @@
+[  
+  {
+    "disease": "Tuberculosis",
+    "country": "India",
+    "deaths": 435448
+  },
+  {
+    "disease": "Tuberculosis",
+    "country": "China",
+    "deaths": 40120
+  },
+  {
+    "disease": "Tuberculosis",
+    "country": "USA",
+    "deaths": 956
+  },
+  {
+    "disease": "Tuberculosis",
+    "country": "Indonesia",
+    "deaths": 89886
+  },
+  {
+    "disease": "Tuberculosis",
+    "country": "Nigeria",
+    "deaths": 34402
+  },
+  {
+    "disease": "Tuberculosis",
+    "country": "Canada",
+    "deaths": 124
+  },
+  {
+    "disease": "Tuberculosis",
+    "country": "Russia",
+    "deaths": 13122
+  },
+  {
+    "disease": "Tuberculosis",
+    "country": "Australia",
+    "deaths": 72
+  },
+  {
+    "disease": "Tuberculosis",
+    "country": "South Africa",
+    "deaths": 22326
+  },
+  {
+    "disease": "Tuberculosis",
+    "country": "Brazil",
+    "deaths": 5331
+  },
+  {
+    "disease": "AIDS",
+    "country": "India",
+    "deaths": 92274
+  },
+  {
+    "disease": "AIDS",
+    "country": "China",
+    "deaths": 30911
+  },
+  {
+    "disease": "AIDS",
+    "country": "USA",
+    "deaths": 7116
+  },
+  {
+    "disease": "AIDS",
+    "country": "Indonesia",
+    "deaths": 7411
+  },
+  {
+    "disease": "AIDS",
+    "country": "Nigeria",
+    "deaths": 134680
+  },
+  {
+    "disease": "AIDS",
+    "country": "Canada",
+    "deaths": 302
+  },
+  {
+    "disease": "AIDS",
+    "country": "Russia",
+    "deaths": 17752
+  },
+  {
+    "disease": "AIDS",
+    "country": "Australia",
+    "deaths": 73
+  },
+  {
+    "disease": "AIDS",
+    "country": "South Africa",
+    "deaths": 164287
+  },
+  {
+    "disease": "AIDS",
+    "country": "Brazil",
+    "deaths": 15298
+  },
+  {
+    "disease": "Diarrhoea",
+    "country": "India",
+    "deaths": 777990
+  },
+  {
+    "disease": "Diarrhoea",
+    "country": "China",
+    "deaths": 5544
+  },
+  {
+    "disease": "Diarrhoea",
+    "country": "USA",
+    "deaths": 9404
+  },
+  {
+    "disease": "Diarrhoea",
+    "country": "Indonesia",
+    "deaths": 49676
+  },
+  {
+    "disease": "Diarrhoea",
+    "country": "Nigeria",
+    "deaths": 135255
+  },
+  {
+    "disease": "Diarrhoea",
+    "country": "Canada",
+    "deaths": 1513
+  },
+  {
+    "disease": "Diarrhoea",
+    "country": "Russia",
+    "deaths": 439
+  },
+  {
+    "disease": "Diarrhoea",
+    "country": "Australia",
+    "deaths": 256
+  },
+  {
+    "disease": "Diarrhoea",
+    "country": "South Africa",
+    "deaths": 12343
+  },
+  {
+    "disease": "Diarrhoea",
+    "country": "Brazil",
+    "deaths": 5995
+  },
+  {
+    "disease": "Dengue",
+    "country": "India",
+    "deaths": 22527
+  },
+  {
+    "disease": "Dengue",
+    "country": "China",
+    "deaths": 5
+  },
+  {
+    "disease": "Dengue",
+    "country": "USA",
+    "deaths": 0
+  },
+  {
+    "disease": "Dengue",
+    "country": "Indonesia",
+    "deaths": 5623
+  },
+  {
+    "disease": "Dengue",
+    "country": "Nigeria",
+    "deaths": 109
+  },
+  {
+    "disease": "Dengue",
+    "country": "Canada",
+    "deaths": 0
+  },
+  {
+    "disease": "Dengue",
+    "country": "Russia",
+    "deaths": 0
+  },
+  {
+    "disease": "Dengue",
+    "country": "Australia",
+    "deaths": 0
+  },
+  {
+    "disease": "Dengue",
+    "country": "South Africa",
+    "deaths": 0
+  },
+  {
+    "disease": "Dengue",
+    "country": "Brazil",
+    "deaths": 1193
+  },
+  {
+    "disease": "Malaria",
+    "country": "India",
+    "deaths": 47998
+  },
+  {
+    "disease": "Malaria",
+    "country": "China",
+    "deaths": 189
+  },
+  {
+    "disease": "Malaria",
+    "country": "USA",
+    "deaths": 0
+  },
+  {
+    "disease": "Malaria",
+    "country": "Indonesia",
+    "deaths": 4933
+  },
+  {
+    "disease": "Malaria",
+    "country": "Nigeria",
+    "deaths": 231579
+  },
+  {
+    "disease": "Malaria",
+    "country": "Canada",
+    "deaths": 0
+  },
+  {
+    "disease": "Malaria",
+    "country": "Russia",
+    "deaths": 0
+  },
+  {
+    "disease": "Malaria",
+    "country": "Australia",
+    "deaths": 0
+  },
+  {
+    "disease": "Malaria",
+    "country": "South Africa",
+    "deaths": 158
+  },
+  {
+    "disease": "Malaria",
+    "country": "Brazil",
+    "deaths": 79
+  },
+  {
+    "disease": "Nutririoal Deficiencies",
+    "country": "India",
+    "deaths": 47951
+  },
+  {
+    "disease": "Nutririoal Deficiencies",
+    "country": "China",
+    "deaths": 14168
+  },
+  {
+    "disease": "Nutririoal Deficiencies",
+    "country": "USA",
+    "deaths": 4582
+  },
+  {
+    "disease": "Nutririoal Deficiencies",
+    "country": "Indonesia",
+    "deaths": 15623
+  },
+  {
+    "disease": "Nutririoal Deficiencies",
+    "country": "Nigeria",
+    "deaths": 24985
+  },
+  {
+    "disease": "Nutririoal Deficiencies",
+    "country": "Canada",
+    "deaths": 374
+  },
+  {
+    "disease": "Nutririoal Deficiencies",
+    "country": "Russia",
+    "deaths": 751
+  },
+  {
+    "disease": "Nutririoal Deficiencies",
+    "country": "Australia",
+    "deaths": 160
+  },
+  {
+    "disease": "Nutririoal Deficiencies",
+    "country": "South Africa",
+    "deaths": 1849
+  },
+  {
+    "disease": "Nutririoal Deficiencies",
+    "country": "Brazil",
+    "deaths": 8782
+  },
+  {
+    "disease": "Breast Cancer",
+    "country": "India",
+    "deaths": 62036
+  },
+  {
+    "disease": "Breast Cancer",
+    "country": "China",
+    "deaths": 70447
+  },
+  {
+    "disease": "Breast Cancer",
+    "country": "USA",
+    "deaths": 49327
+  },
+  {
+    "disease": "Breast Cancer",
+    "country": "Indonesia",
+    "deaths": 16461
+  },
+  {
+    "disease": "Breast Cancer",
+    "country": "Nigeria",
+    "deaths": 11053
+  },
+  {
+    "disease": "Breast Cancer",
+    "country": "Canada",
+    "deaths": 6090
+  },
+  {
+    "disease": "Breast Cancer",
+    "country": "Russia",
+    "deaths": 23790
+  },
+  {
+    "disease": "Breast Cancer",
+    "country": "Australia",
+    "deaths": 3232
+  },
+  {
+    "disease": "Breast Cancer",
+    "country": "South Africa",
+    "deaths": 3917
+  },
+  {
+    "disease": "Breast Cancer",
+    "country": "Brazil",
+    "deaths": 17018
+  },
+  {
+    "disease": "Drugs",
+    "country": "India",
+    "deaths": 10904
+  },
+  {
+    "disease": "Drugs",
+    "country": "China",
+    "deaths": 32235
+  },
+  {
+    "disease": "Drugs",
+    "country": "USA",
+    "deaths": 33709
+  },
+  {
+    "disease": "Drugs",
+    "country": "Indonesia",
+    "deaths": 976
+  },
+  {
+    "disease": "Drugs",
+    "country": "Nigeria",
+    "deaths": 1449
+  },
+  {
+    "disease": "Drugs",
+    "country": "Canada",
+    "deaths": 1624
+  },
+  {
+    "disease": "Drugs",
+    "country": "Russia",
+    "deaths": 17860
+  },
+  {
+    "disease": "Drugs",
+    "country": "Australia",
+    "deaths": 1074
+  },
+  {
+    "disease": "Drugs",
+    "country": "South Africa",
+    "deaths": 1043
+  },
+  {
+    "disease": "Drugs",
+    "country": "Brazil",
+    "deaths": 1669
+  },
+  {
+    "disease": "Road Injuries",
+    "country": "India",
+    "deaths": 253993
+  },
+  {
+    "disease": "Road Injuries",
+    "country": "China",
+    "deaths": 311605
+  },
+  {
+    "disease": "Road Injuries",
+    "country": "USA",
+    "deaths": 44671
+  },
+  {
+    "disease": "Road Injuries",
+    "country": "Indonesia",
+    "deaths": 41181
+  },
+  {
+    "disease": "Road Injuries",
+    "country": "Nigeria",
+    "deaths": 17892
+  },
+  {
+    "disease": "Road Injuries",
+    "country": "Canada",
+    "deaths": 2851
+  },
+  {
+    "disease": "Road Injuries",
+    "country": "Russia",
+    "deaths": 28198
+  },
+  {
+    "disease": "Road Injuries",
+    "country": "Australia",
+    "deaths": 1656
+  },
+  {
+    "disease": "Road Injuries",
+    "country": "South Africa",
+    "deaths": 20338
+  },
+  {
+    "disease": "Road Injuries",
+    "country": "Brazil",
+    "deaths": 48724
+  },
+  {
+    "disease": "Liver Cancer",
+    "country": "India",
+    "deaths": 31507
+  },
+  {
+    "disease": "Liver Cancer",
+    "country": "China",
+    "deaths": 426903
+  },
+  {
+    "disease": "Liver Cancer",
+    "country": "USA",
+    "deaths": 24859
+  },
+  {
+    "disease": "Liver Cancer",
+    "country": "Indonesia",
+    "deaths": 10273
+  },
+  {
+    "disease": "Liver Cancer",
+    "country": "Nigeria",
+    "deaths": 15374
+  },
+  {
+    "disease": "Liver Cancer",
+    "country": "Canada",
+    "deaths": 2235
+  },
+  {
+    "disease": "Liver Cancer",
+    "country": "Russia",
+    "deaths": 10639
+  },
+  {
+    "disease": "Liver Cancer",
+    "country": "Australia",
+    "deaths": 1575
+  },
+  {
+    "disease": "Liver Cancer",
+    "country": "South Africa",
+    "deaths": 2299
+  },
+  {
+    "disease": "Liver Cancer",
+    "country": "Brazil",
+    "deaths": 10731
+  },
+  {
+    "disease": "Hepatitus B",
+    "country": "India",
+    "deaths": 49578
+  },
+  {
+    "disease": "Hepatitus B",
+    "country": "China",
+    "deaths": 8588
+  },
+  {
+    "disease": "Hepatitus B",
+    "country": "USA",
+    "deaths": 829
+  },
+  {
+    "disease": "Hepatitus B",
+    "country": "Indonesia",
+    "deaths": 5131
+  },
+  {
+    "disease": "Hepatitus B",
+    "country": "Nigeria",
+    "deaths": 2593
+  },
+  {
+    "disease": "Hepatitus B",
+    "country": "Canada",
+    "deaths": 106
+  },
+  {
+    "disease": "Hepatitus B",
+    "country": "Russia",
+    "deaths": 200
+  },
+  {
+    "disease": "Hepatitus B",
+    "country": "Australia",
+    "deaths": 96
+  },
+  {
+    "disease": "Hepatitus B",
+    "country": "South Africa",
+    "deaths": 200
+  },
+  {
+    "disease": "Hepatitus B",
+    "country": "Brazil",
+    "deaths": 1011
+  }
+]
